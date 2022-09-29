@@ -2,7 +2,7 @@
 
 int main()
 {
-   printf("Hello, Galaxy!");
+   printf("Hello Siem. I have deleted your printf"); //HAHA!
    
    return 0;
 }
